@@ -1,2 +1,3 @@
-# dataviz
-Playground for data visualization project
+# reviz
+
+Playground for data re-visualization project.
